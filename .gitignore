@@ -2,11 +2,9 @@
 *.pth
 .vscode/
 # Libtorch
-libtorch
 *.zip
-
+inference/inference
 # Ignore binaries
-predict
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
