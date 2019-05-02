@@ -1,5 +1,5 @@
 # Pytorch models
-*.pth
+bin/inference
 .vscode/
 # Libtorch
 *.zip
